@@ -41,7 +41,7 @@ export default function About() {
         I am also familiar with .NET, C# and C++. I am always looking to
         learn new technologies. 
 
-        <span className="font-medium">{" "}When I'm not coding</span>, I enjoy shooting in the gun range, practicing swordsmanship,
+        <span className="font-medium">{" "}When I&apos;m not coding</span>, I enjoy shooting in the gun range, practicing swordsmanship,
         playing video games and watching movies. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
