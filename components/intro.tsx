@@ -64,7 +64,7 @@ export default function Intro() {
         <span className="font-bold">¨Hey there👋I&apos;m Luan.</span> a Full-Stack Developer with {" "}
         <span className="font-bold">5 years</span> of experience. {" "} building 
         <span className="font-bold"> innovative</span> {" "}
-        <span className="underline">solutions.</span>¨
+        <span className="underline">applications.</span>¨
         
       </motion.h1>
 
@@ -79,7 +79,7 @@ export default function Intro() {
 
         
         <motion.div
-  className="flex items-center justify-center gap-2" // Added a gap of 4 units for spacing
+  className="flex items-center justify-center gap-2 px-4 text-lg font-medium" // Added a gap of 4 units for spacing
   initial={{ opacity: 0, y: 100 }}
   animate={{ opacity: 1, y: 0 }}
   transition={{
@@ -89,7 +89,7 @@ export default function Intro() {
 
 <Link
           href="#contact"
-          className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
+          className="group bg-gray-900 text-white px-4 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition text-xs sm:text-lg font-medium"
           onClick={() => {
             setActiveSection("Contact");
             setTimeOfLastClick(Date.now());
@@ -131,7 +131,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="text-sm opacity-60">Also feel free to download my</span>
+        <span className="text-xs sm:text-sm opacity-60">Also feel free to download my</span>
         
       </motion.h1>
 
