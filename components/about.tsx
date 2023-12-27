@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { useSectionInView } from "@/lib/hooks";
 
 export default function About() {
-  const { ref } = useSectionInView("About me");
+  const { ref } = useSectionInView("About");
 
   const textcolumns = {
     textAlign: 'justify' as const,
