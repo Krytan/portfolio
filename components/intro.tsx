@@ -61,12 +61,22 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">¨Hey there👋I&apos;m Luan.</span> a Full-Stack Developer with {" "}
-        <span className="font-bold">5 years</span> of experience. {" "} building 
-        <span className="font-bold"> innovative</span> {" "}
-        <span className="underline">applications.</span>¨
+
+        <span className="font-bold"> ¨Innovation</span> begins with a strong desire to build something deemed impossible.¨{" "} 
+        <span className="font-bold"> </span> {" "}
+        <span className="underline"></span>
         
       </motion.h1>
+
+      <motion.h2
+        className="mb-10 mt-4 px-4 text-x1 font-medium !leading-[1.5] sm:text-3xl"
+        initial={{ opacity: 0, y: 100 }}
+        animate={{ opacity: 1, y: 0 }}
+      >
+
+        I <span className="font-bold"> Luan</span> strive to push boundaries and challenge conventional thinking.{" "} 
+        
+      </motion.h2>
 
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
