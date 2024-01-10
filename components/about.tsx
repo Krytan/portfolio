@@ -27,21 +27,21 @@ export default function About() {
 
       
       <p className="mb-3">
-        <span className="font-medium">I'm Luan Faber, a Software Developer passionate about creating cool stuff that works. I'm all about bringing ideas to life through code and innovation. 
+        <span className="font-medium">I&apos;m Luan Faber, a Software Developer passionate about creating cool stuff that works. I&apos;m all about bringing ideas to life through code and innovation. 
 
 🚀 I recently graduated from a 5-year Software Developer program, diving into everything from web development to database management and snagging some amazing hands-on experience along the way.
 
 🏆 One of the highlights? Being part of the team behind the award-winning app, Files, recognized at the Microsoft Store App Awards 2022. Pretty stoked about that achievement!
 
-🛠️ Speaking of projects, I've tinkered with a range of cool stuff – from crafting a comprehensive school application integrating scheduling and authentication to building a self-driving miniature car and even creating a device that reads heart rhythms. Yep, it's been a wild ride!
+🛠️ Speaking of projects, I&apos;ve tinkered with a range of cool stuff – from crafting a comprehensive school application integrating scheduling and authentication to building a self-driving miniature car and even creating a device that reads heart rhythms. Yep, it&apos;s been a wild ride!
 
-💡 What gets me buzzing? Collaborating with amazing folks! I've worked closely with senior developers and testers, tackling bugs, implementing new features, and boosting user experiences.
+💡 What gets me buzzing? Collaborating with amazing folks! I&apos;ve worked closely with senior developers and testers, tackling bugs, implementing new features, and boosting user experiences.
 
-🎓 Education-wise, I've got a mix of hands-on learning and formal certifications under my belt, diving into cybersecurity at Harvard University, advanced SQL from Udemy and Data technician specialized in programming at Technical Education Copenhagen.
+🎓 Education-wise, I&apos;ve got a mix of hands-on learning and formal certifications under my belt, diving into cybersecurity at Harvard University, advanced SQL from Udemy and Data technician specialized in programming at Technical Education Copenhagen.
 
-🤖 Tech-wise, I've delved into various frameworks and environments like React, Angular, Node.js, and more. And hey, I speak a few languages too – not just programming ones! English, Danish, Spanish, and Portuguese.
+🤖 Tech-wise, I&apos;ve delved into various frameworks and environments like React, Angular, Node.js, and more. And hey, I speak a few languages too – not just programming ones! English, Danish, Spanish, and Portuguese.
 
-👨‍💻 Always keen to chat about teamwork, structured approaches, and making things happen! Hit me up if you're into cool tech and creative problem-solving.</span>{" "} 
+👨‍💻 Always keen to chat about teamwork, structured approaches, and making things happen! Hit me up if you&apos;re into cool tech and creative problem-solving.</span>{" "} 
       </p>
       </div>
       <p>
