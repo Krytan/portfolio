@@ -27,29 +27,21 @@ export default function About() {
 
       
       <p className="mb-3">
-        Recently graduated with a degree in{" "}
-        <span className="font-medium">Data technician specialized in programming</span>{" "} over a 5-year academic journey. 
-        Alongside my education, I immersed myself in various online courses, one notable being from{" "}
-        <span className="font-medium">Harvard University</span>.{" "}
-        <span className="font-medium">Contributed for a successful project, </span> it being the award-winning app at the Microsoft Store App Awards in 2022.
-        I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, MySQL, TypeScript and NextAuth. 
-        </span>
-        I am also familiar with .NET, C# and C++. I am always looking to
-        learn new technologies. 
+        <span className="font-medium">I'm Luan Faber, a Software Developer passionate about creating cool stuff that works. I'm all about bringing ideas to life through code and innovation. 
 
-        <span className="font-medium">{" "}When I&apos;m not coding</span>, I enjoy shooting in the gun range, practicing swordsmanship,
-        playing video games and watching movies. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and culture</span>. I also enjoy travelling into non-visited places.
-        
-        
-        
-      
+🚀 I recently graduated from a 5-year Software Developer program, diving into everything from web development to database management and snagging some amazing hands-on experience along the way.
+
+🏆 One of the highlights? Being part of the team behind the award-winning app, Files, recognized at the Microsoft Store App Awards 2022. Pretty stoked about that achievement!
+
+🛠️ Speaking of projects, I've tinkered with a range of cool stuff – from crafting a comprehensive school application integrating scheduling and authentication to building a self-driving miniature car and even creating a device that reads heart rhythms. Yep, it's been a wild ride!
+
+💡 What gets me buzzing? Collaborating with amazing folks! I've worked closely with senior developers and testers, tackling bugs, implementing new features, and boosting user experiences.
+
+🎓 Education-wise, I've got a mix of hands-on learning and formal certifications under my belt, diving into cybersecurity at Harvard University, advanced SQL from Udemy and Data technician specialized in programming at Technical Education Copenhagen.
+
+🤖 Tech-wise, I've delved into various frameworks and environments like React, Angular, Node.js, and more. And hey, I speak a few languages too – not just programming ones! English, Danish, Spanish, and Portuguese.
+
+👨‍💻 Always keen to chat about teamwork, structured approaches, and making things happen! Hit me up if you're into cool tech and creative problem-solving.</span>{" "} 
       </p>
       </div>
       <p>
